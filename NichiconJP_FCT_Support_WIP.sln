@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NichiconJP_FCT_Support_WIP", "NichiconJP_FCT_Support_WIP.csproj", "{4F532D8A-874B-4B63-BE91-E2477B3C6877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F532D8A-874B-4B63-BE91-E2477B3C6877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F532D8A-874B-4B63-BE91-E2477B3C6877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F532D8A-874B-4B63-BE91-E2477B3C6877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F532D8A-874B-4B63-BE91-E2477B3C6877}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EF812A7-7F9E-4163-AAB4-C2547662E556}
+	EndGlobalSection
+EndGlobal

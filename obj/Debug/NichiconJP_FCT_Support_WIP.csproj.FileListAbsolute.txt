@@ -1,0 +1,67 @@
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\NichiconJP_FCT_Support_WIP\bin\Debug\ok.png
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\NichiconJP_FCT_Support_WIP\bin\Debug\AutoItX3.Assembly.xml
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\NichiconJP_FCT_Support_WIP\bin\Debug\AutoItX3.dll
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\NichiconJP_FCT_Support_WIP\bin\Debug\AutoItX3_x64.dll
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\NichiconJP_FCT_Support_WIP\bin\Debug\ng.png
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\NichiconJP_FCT_Support_WIP\bin\Debug\AutoItX3.Assembly.dll
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\NichiconJP_FCT_Support_WIP\bin\Debug\NichiconJP_FCT_Support_WIP.exe.config
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\NichiconJP_FCT_Support_WIP\bin\Debug\NichiconJP_FCT_Support_WIP.exe.manifest
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\NichiconJP_FCT_Support_WIP\bin\Debug\NichiconJP_FCT_Support_WIP.application
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\NichiconJP_FCT_Support_WIP\bin\Debug\NichiconJP_FCT_Support_WIP.exe
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\NichiconJP_FCT_Support_WIP\bin\Debug\NichiconJP_FCT_Support_WIP.pdb
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.frmConfig.resources
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.Main.resources
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.Properties.Resources.resources
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.csproj.GenerateResource.cache
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.csproj.CoreCompileInputs.cache
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.exe.manifest
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.application
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.csproj.CopyComplete
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.exe
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.pdb
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.csproj.AssemblyReference.cache
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.csproj.SuggestedBindingRedirects.cache
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.exe
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.pdb
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\NichiconJP_FCT_Support_WIP\bin\Debug\AutoItX3.dll
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\NichiconJP_FCT_Support_WIP\bin\Debug\AutoItX3_x64.dll
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\NichiconJP_FCT_Support_WIP\bin\Debug\ok.png
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\NichiconJP_FCT_Support_WIP\bin\Debug\AutoItX3.Assembly.xml
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\NichiconJP_FCT_Support_WIP\bin\Debug\ng.png
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\NichiconJP_FCT_Support_WIP\bin\Debug\AutoItX3.Assembly.dll
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\NichiconJP_FCT_Support_WIP\bin\Debug\NichiconJP_FCT_Support_WIP.exe.config
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\NichiconJP_FCT_Support_WIP\bin\Debug\NichiconJP_FCT_Support_WIP.exe.manifest
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\NichiconJP_FCT_Support_WIP\bin\Debug\NichiconJP_FCT_Support_WIP.application
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\NichiconJP_FCT_Support_WIP\bin\Debug\NichiconJP_FCT_Support_WIP.exe
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\NichiconJP_FCT_Support_WIP\bin\Debug\NichiconJP_FCT_Support_WIP.pdb
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.csproj.AssemblyReference.cache
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.Properties.Resources.resources
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.csproj.GenerateResource.cache
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.csproj.CoreCompileInputs.cache
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.exe.manifest
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.application
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\NichiconJP_FCT_Support_WIP\obj\Debug\Nichicon.AEF0087C.Up2Date
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.frmConfig.resources
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.Main.resources
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\14.NichiconJP_FCT_Support_WIP\bin\Debug\AutoItX3.dll
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\14.NichiconJP_FCT_Support_WIP\bin\Debug\AutoItX3_x64.dll
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\14.NichiconJP_FCT_Support_WIP\bin\Debug\ok.png
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\14.NichiconJP_FCT_Support_WIP\bin\Debug\AutoItX3.Assembly.xml
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\14.NichiconJP_FCT_Support_WIP\bin\Debug\ng.png
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\14.NichiconJP_FCT_Support_WIP\bin\Debug\AutoItX3.Assembly.dll
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\14.NichiconJP_FCT_Support_WIP\bin\Debug\NichiconJP_FCT_Support_WIP.exe.config
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\14.NichiconJP_FCT_Support_WIP\bin\Debug\NichiconJP_FCT_Support_WIP.exe.manifest
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\14.NichiconJP_FCT_Support_WIP\bin\Debug\NichiconJP_FCT_Support_WIP.application
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\14.NichiconJP_FCT_Support_WIP\bin\Debug\NichiconJP_FCT_Support_WIP.exe
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\14.NichiconJP_FCT_Support_WIP\bin\Debug\NichiconJP_FCT_Support_WIP.pdb
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\14.NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.csproj.AssemblyReference.cache
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\14.NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.frmConfig.resources
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\14.NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.Main.resources
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\14.NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.Properties.Resources.resources
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\14.NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.csproj.GenerateResource.cache
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\14.NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.csproj.CoreCompileInputs.cache
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\14.NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.exe.manifest
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\14.NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.application
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\14.NichiconJP_FCT_Support_WIP\obj\Debug\Nichicon.AEF0087C.Up2Date
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\14.NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.exe
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\14.NichiconJP_FCT_Support_WIP\obj\Debug\NichiconJP_FCT_Support_WIP.pdb
